@@ -1,0 +1,2 @@
+mainmenu_title=Titeln
+mainmenu_description=En väldigt lång\nflerradig förklaring.

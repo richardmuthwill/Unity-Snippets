@@ -1,0 +1,2 @@
+mainmenu_title=The Title
+mainmenu_description=The very long\nmultiline description.
