@@ -10,6 +10,10 @@
         /// of holding the thing (see Tomato Presence : https://owlchemylabs.com/tomatopresence/)
         ///
         /// Original file: https://forum.unity.com/threads/xr-rig-grab-from-touchpoint-not-rigidbody-center.879037/
+        ///
+        /// - WARNING -
+        /// This only works with the XR Toolkil version 0.9 and down. For a new version of this functionality
+        /// see the file: 
         /// </summary>
         public class XROffsetGrabbable : XRGrabInteractable
         {
