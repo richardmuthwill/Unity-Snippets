@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Snippets : MonoBehaviour
+public class CompasDirection : MonoBehaviour
 {
     // Turn a vector into a compass
     string CompassDirection(Vector2 v)
